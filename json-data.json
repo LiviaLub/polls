@@ -1,0 +1,12 @@
+[
+{
+  "question": "Q1. Apple vs. Android?",
+  "choices": ["Apple", "Android"]
+},
+{"question": "Q2. Preferred movie genre?",
+"choices": ["Comedy", "Horror", "Drama", "Action"]
+},
+{"question": "Q3. Favorite color?",
+"choices": ["Blue", "Red", "Green", "Purple"]
+}
+]
